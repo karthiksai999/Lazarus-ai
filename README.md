@@ -31,8 +31,6 @@ Frontend
 - npm install
 - npm start
 
-Open `http://localhost:3000` in your browser.
-
 How it works:-
 
 1. Paste or upload your code
